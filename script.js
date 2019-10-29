@@ -106,6 +106,7 @@ function blackjack(numOne, numTwo){
     return card;
 }
 
+
 function loneSum(intOne, intTwo, intThree){
     var sum = "";
     if(intOne !== intTwo && intOne !== intThree && intTwo !== intThree){
